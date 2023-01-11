@@ -1,0 +1,6 @@
+*.pyc
+*.py~
+*.db
+*.sql
+*.pptx
+figs/*

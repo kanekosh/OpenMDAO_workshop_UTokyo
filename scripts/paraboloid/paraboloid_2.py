@@ -31,9 +31,7 @@ class Paraboloid(om.ExplicitComponent):
         """
         Partial derivatives of f(x, y) w.r.t. x and y
         """
-        x = inputs['x']
-        y = inputs['y']
-
+        
         # ***********************************
         # TODO: implement partial derivatives
         df_dx = XXXXX
